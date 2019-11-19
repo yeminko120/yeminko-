@@ -1,2 +1,3 @@
 # yeminko-
-I am junior web developer
+I am junior web developer.
+
